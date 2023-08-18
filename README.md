@@ -1,3 +1,6 @@
+## article
+* [컴퓨터가 만드는 랜덤은 정말로 랜덤할까?](https://evan-moon.github.io/2019/07/14/what-is-random/)
+
 
 
 ## 국내 기술 블로그
