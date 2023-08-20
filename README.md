@@ -1,20 +1,40 @@
+<div align=center>
+  <a href="https://github.com/ask-resume"><img src="https://github.com/132262B/tech-reads-archive/tree/main/images/title.png"></a>
+</div>
 
 
 ## 목차
-* [아티클](#아티클)
-
-
-* [보안](#보안)
-* [블로그](#블로그)
-
-
-## 아티클
-* [한번 읽어보면 좋은 내용](https://github.com/132262B/tech-reads-archive/blob/main/article/README.md#%ED%95%9C%EB%B2%88-%EC%9D%BD%EC%96%B4%EB%B3%B4%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EB%82%B4%EC%9A%A9)
-
-## 보안
-* [보안](https://github.com/132262B/tech-reads-archive/tree/main/security#%EB%B3%B4%EC%95%88)
-
-
-## 블로그
-* [국내 기술 블로그](https://github.com/132262B/tech-reads-archive/tree/main/blog#%ED%95%B4%EC%99%B8-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8)
-* [해외 기술 블로그](https://github.com/132262B/tech-reads-archive/tree/main/blog#%ED%95%B4%EC%99%B8-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8)
+* 아티클
+* * 한번 읽어보면 좋은 내용
+* 언어(language)
+* * Java & Kotlin
+* * * 공통
+* * * Java
+* * * Kotlin
+* * Javascript & Typescript
+* * * 공통
+* * * Javascript
+* * * Typescript
+* * Python
+* * Go
+* Backend
+* * 
+* Frontend
+* * 
+* 데이터 베이스
+* * RDBMS
+* * * Mysql & Maria
+* * * Postgresql
+* * * oracle
+* * NoSql
+* 인프라 & DevOps
+* ETC
+* * Git
+* 보안
+* * 네트워크
+* * 기타
+* 블로그
+* * 국내 기술 블로그
+* * 해외 기술 블로그
+* 회고록
+* 
