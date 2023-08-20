@@ -1,7 +1,16 @@
 <div align=center>
-  <a href="https://github.com/ask-resume"><img src="https://github.com/132262B/tech-reads-archive/tree/main/images/title.png"></a>
+    <div>
+        <a href="https://github.com/132262B/tech-reads-archive">
+            <img width="300" src="https://raw.githubusercontent.com/132262B/tech-reads-archive/main/images/title.png">
+          </a>
+    </div>
+    <br>
+    <div>
+        개발관련 읽어보면 좋은 내용을 기록
+    </div>
 </div>
 
+---
 
 ## 목차
 * 아티클
