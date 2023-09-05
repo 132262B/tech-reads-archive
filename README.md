@@ -27,9 +27,13 @@
 * * Python
 * * Go
 * Backend
-* * 
+* * Spring
+* * NodeJs
+* * Django
 * Frontend
-* * 
+* * Vue
+* * React
+* * Next
 * 데이터 베이스
 * * RDBMS
 * * * Mysql & Maria
@@ -37,6 +41,8 @@
 * * * oracle
 * * NoSql
 * 인프라 & DevOps
+* * Docker
+* * Kubernetes
 * ETC
 * * Git
 * 보안
@@ -46,4 +52,4 @@
 * * 국내 기술 블로그
 * * 해외 기술 블로그
 * 회고록
-* 
+* 유용한 사이트
