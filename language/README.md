@@ -4,7 +4,7 @@
 * [해외 블로그](#해외-기술-블로그)
 
 
-## Java & Kotlin
+## Java&Kotlin
 
 ### 공통
 * [Java, BigDecimal 사용법 정리](https://jsonobject.tistory.com/466)
