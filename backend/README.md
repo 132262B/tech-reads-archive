@@ -6,8 +6,8 @@
 
 
 ## Spring
-
-
+* [[Spring + Jackson] Spring Boot에서 default ObjectMapper의 configuration을 알아보도록 하자](https://sabarada.tistory.com/236)
+* [중복 로그인 방지 in Session Clustering Env](http://dveamer.github.io/backend/PreventDuplicatedLogin.html)
 
 
 <!-- 멀티모듈 -->
