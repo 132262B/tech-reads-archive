@@ -55,5 +55,7 @@
 * [회고록](https://github.com/132262B/tech-reads-archive/tree/main/memoir#목차)
 * * [주니어 & 성장](https://github.com/132262B/tech-reads-archive/tree/main/memoir#주니어&성장)
 * * [스타트업](https://github.com/132262B/tech-reads-archive/tree/main/memoir#스타트업)
+* [문화](https://github.com/132262B/tech-reads-archive/tree/main/culture)
+* * [애자일](https://github.com/132262B/tech-reads-archive/tree/main/culture#애자일)
 * [유용한 사이트](https://github.com/132262B/tech-reads-archive/tree/main/useful-site)
 * [면접,이직,취업준비](https://github.com/132262B/tech-reads-archive/tree/main/interview)
