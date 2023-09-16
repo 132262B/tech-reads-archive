@@ -1,0 +1,22 @@
+name: "🗒 콘텐츠를 추가하고 싶어요!"
+description: "좋은 글을 알고 있는데, 추가하고 싶을때!"
+labels:
+  - ":page_with_curl:내용추가"
+
+body:
+  - id: link
+    type: input
+    validations:
+      required: true
+    attributes:
+      label: 🔗 링크
+      description: 추가하고 싶은 링크를 이곳에 입력해주세요.
+      placeholder: "https://example.com"
+  - id: about
+    type: textarea
+    attributes:
+      label: 🧤 설명
+      description: 설명을 간단하게 적어주세요.
+  - type: markdown
+    attributes:
+      value: 공유해주셔서 감사합니다! 🙇 🙇‍
