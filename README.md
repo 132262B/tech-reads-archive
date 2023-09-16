@@ -44,6 +44,7 @@
 * * [common](https://github.com/132262B/tech-reads-archive/tree/main/infra&devops#common)
 * * [docker](https://github.com/132262B/tech-reads-archive/tree/main/infra&docker)
 * * [kubernetes](https://github.com/132262B/tech-reads-archive/tree/main/infra&devops#kubernetes)
+* [AI](https://github.com/132262B/tech-reads-archive/tree/main/AI)
 * [ETC](https://github.com/132262B/tech-reads-archive/tree/main/etc#목차)
 * * [Git](https://github.com/132262B/tech-reads-archive/tree/main/etc#Git)
 * [보안](https://github.com/132262B/tech-reads-archive/tree/main/security#목차)
