@@ -7,7 +7,7 @@
 ## Java&Kotlin
 
 ### 공통
-* [Java, BigDecimal 사용법 정리](https://jsonobject.tistory.com/466)
+* [🗒 - Java, BigDecimal 사용법 정리](https://jsonobject.tistory.com/466)
 
 ### Java
 
