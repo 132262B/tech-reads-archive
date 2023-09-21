@@ -11,7 +11,8 @@
 * [🗒 - AWS Lambda@Edge에서 실시간 이미지 리사이즈 & WebP 형식으로 변환](https://medium.com/daangn/lambda-edge%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-on-the-fly-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A6%AC%EC%82%AC%EC%9D%B4%EC%A7%95-f4e5052d49f3)
 * [🗒 - 지속 성장 가능한 소프트웨어를 만들어가는 방법](https://geminikim.medium.com/%EC%A7%80%EC%86%8D-%EC%84%B1%EC%9E%A5-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94-%EB%B0%A9%EB%B2%95-97844c5dab63)
 * [🎬 - 지속 성장 가능한 코드를 만들어가는 방법](https://toss.im/slash-22/sessions/1-6)
-
+* [🎬 - 그런 REST API로 괜찮은가](https://youtu.be/RP_f5dMoHFc)
+* [🗒 - 좋은 README 작성하는 방법](https://insight.infograb.net/blog/2023/08/23/good-readme/)
 
 <!-- 기업관련 -->
-* [[재무분석] 5. 토스 - 무엇으로 돈을 버는가?](https://brunch.co.kr/@choicepark/8)
+* [🗒 - [재무분석] 5. 토스 - 무엇으로 돈을 버는가?](https://brunch.co.kr/@choicepark/8)
