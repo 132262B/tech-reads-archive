@@ -7,8 +7,10 @@
 
 
 ## common
+* [🗒 - 서버리스 환경에서 2천만 유저에게 이메일 전송하기](https://medium.com/stayge-labs/send-email-to-20m-users-with-serverless-bf76dca9953d)
 * [🗒 - 무중단 배포 아키텍처와 배포 전략 (Rolling, Blue/Green, Canary)](https://hudi.blog/zero-downtime-deployment/)
 
 ## docker
+* [🗒 - Docker 로그 제대로 사용하기](https://insight.infograb.net/blog/2022/11/22/docker-logging-driver/)
 
 ## kubernetes

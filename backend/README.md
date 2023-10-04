@@ -6,6 +6,7 @@
 
 
 ## Spring
+* [🗒 - Kotlin으로 DSL 만들기: 반복적이고 지루한 REST Docs 벗어나기](https://toss.tech/article/kotlin-dsl-restdocs)
 * [🗒 - [Spring + Jackson] Spring Boot에서 default ObjectMapper의 configuration을 알아보도록 하자](https://sabarada.tistory.com/236)
 * [🗒 - 중복 로그인 방지 in Session Clustering Env](http://dveamer.github.io/backend/PreventDuplicatedLogin.html)
 

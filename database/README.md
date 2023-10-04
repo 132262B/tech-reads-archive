@@ -5,9 +5,11 @@
 * * [Postgresql](#Postgresql)
 * * [Oracle](#Oracle)
 * [NoSql](#NoSql)
+* * [Redis](#Redis)
 
 
 ## RDBMS
+# [🗒 - VARCHAR vs TEXT](https://medium.com/daangn/varchar-vs-text-230a718a22a1)
 
 ## Mysql&Maria
 * [🗒 - [데이터베이스 복구 방법 1] MySQL 8 .ibd 파일을 이용하여 데이터 복구하기](https://puleugo.tistory.com/167)
@@ -21,3 +23,7 @@
 
 
 ## NoSql
+
+
+## Redis
+* [🗒 - [redis] 트랜잭션(Transaction) - 이론편](https://sabarada.tistory.com/177)
