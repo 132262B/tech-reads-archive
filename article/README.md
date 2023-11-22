@@ -5,7 +5,7 @@
 
 
 ## 한번-읽어보면-좋은-내용
-* [🗒 -기술 부채와 오버 엔지니어링을 줄이는 방법](https://channy.creation.net/blog/1623)
+* [🗒 - 기술 부채와 오버 엔지니어링을 줄이는 방법](https://channy.creation.net/blog/1623)
 * [🗒 - 프론트엔드 개발자라면 반드시 알아두어야 할 32가지의 UI 요소 (번역)](https://velog.io/@oneook/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9D%BC%EB%A9%B4-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EB%91%90%EC%96%B4%EC%95%BC-%ED%95%A0-32%EA%B0%80%EC%A7%80%EC%9D%98-UI-%EC%9A%94%EC%86%8C-%EB%B2%88%EC%97%AD)
 * [🗒 - 컴퓨터가 만드는 랜덤은 정말로 랜덤할까?](https://evan-moon.github.io/2019/07/14/what-is-random/)
 * [🗒 - 잘하는 개발자가 되는 그라데이션 사고법 (추상화 계층과 데이터 흐름 이해하기)](https://velog.io/@teo/gradation-thinking)
@@ -14,6 +14,8 @@
 * [🎬 - 지속 성장 가능한 코드를 만들어가는 방법](https://toss.im/slash-22/sessions/1-6)
 * [🎬 - 그런 REST API로 괜찮은가](https://youtu.be/RP_f5dMoHFc)
 * [🗒 - 좋은 README 작성하는 방법](https://insight.infograb.net/blog/2023/08/23/good-readme/)
+* [🗒 - 좋은 객체 ID(Object ID) 만들기](https://velog.io/@tosspayments/%EC%A2%8B%EC%9D%80-%EA%B0%9D%EC%B2%B4-IDObject-ID-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+* [🗒 - 잘가, 클린 코드](https://overreacted.io/ko/goodbye-clean-code/)
 
 <!-- 기업관련 -->
 * [🗒 - [재무분석] 5. 토스 - 무엇으로 돈을 버는가?](https://brunch.co.kr/@choicepark/8)

@@ -9,7 +9,9 @@
 
 
 ## RDBMS
-# [🗒 - VARCHAR vs TEXT](https://medium.com/daangn/varchar-vs-text-230a718a22a1)
+* [🗒 - VARCHAR vs TEXT](https://medium.com/daangn/varchar-vs-text-230a718a22a1)
+* [🗒 - [성능 개선] 데이터베이스 튜닝의 시작, 인덱스 활용하기](https://hyeyun133.tistory.com/200)
+* [🗒 - UNIQUE 제약으로 중복 검사해도 될까?](https://braindisk.tistory.com/m/119)
 
 ## Mysql&Maria
 * [🗒 - [데이터베이스 복구 방법 1] MySQL 8 .ibd 파일을 이용하여 데이터 복구하기](https://puleugo.tistory.com/167)
