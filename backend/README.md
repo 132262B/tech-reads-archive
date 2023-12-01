@@ -4,6 +4,11 @@
 * [Spring](#Spring)
 * [NodeJs](#NodeJs)
 * [Django](#Django)
+* [msa](#mas)
+
+## msa
+* [🗒 - 마이크로서비스 분산 트랜잭션 관리 (Saga Pattern)](https://waspro.tistory.com/735)
+* 
 
 
 ## Spring
