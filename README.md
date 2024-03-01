@@ -144,6 +144,7 @@
 # 프론트엔드
 
 ## 공통
+* [🗒 - 브라우저가 알려주지 않는 67가지 이상한 디버깅 트릭](https://github.com/yeonjuan/dev-blog/blob/master/Browser/browser-debugging-tricks.md)
 * [🗒 - 현대적인 프론트엔드 인프라](https://wayne-kim.blog/a/frontend-infra)
 
 # 협업
@@ -160,12 +161,12 @@
 
 # ETC
 
-[//]: # (자소서)
+[//]: # (이력서)
+* [🗒 - 15초의 승부 : 이력서 검토의 세계 — 2](https://medium.com/@totuworld/15%EC%B4%88%EC%9D%98-%EC%8A%B9%EB%B6%80-%EC%9D%B4%EB%A0%A5%EC%84%9C-%EA%B2%80%ED%86%A0%EC%9D%98-%EC%84%B8%EA%B3%84-2-e96f6ac44cc3)
 * [🗒 - 개발자 이력서 작성 방법 - 99콘 이력서 후기](https://baek.dev/post/2/)
 
 [//]: # (면접)
 * [🗒 - Sir.LOIN 소프트웨어 엔지니어 인터뷰 질문 목록](https://github.com/sirloin-dev/meatplatform/blob/master/job-description/interview-questions.adoc#why-we-open)
-
 
 [//]: # (주니어&성장)
 * [🗒 - 주니어의 스터디 드라이븐 성장기](https://present.do/documents/649b9310ab01fc16d3aed532)
@@ -177,6 +178,7 @@
 # 기타 사이트
 * [🗒 - GeekNews - 개발/기술/스타트업 뉴스 서비스 - HaDa.io](https://news.hada.io/)
 * [🗒 - Spring 공식 가이드](https://spring.io/guides)
+* [🗒 - 쿠버네티스 스쿨](https://www.cloudacode.com/hello-kubernetes/)
 
 
 # 블로그
