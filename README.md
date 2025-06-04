@@ -104,6 +104,13 @@
 * [🗒 - 마이크로서비스 분산 트랜잭션 관리 (Saga Pattern)](https://waspro.tistory.com/735)
 * [🗒 - 분산 처리 시스템에서 유일한 식별자를 만드는 방법(twitter snowflake)](https://jeong-pro.tistory.com/251)
 
+## 동시성
+* [🗒 - 백엔드 개발자들이 알아야할 동시성 1 — Concurrency와 Parallelism](https://choi-geonu.medium.com/백엔드-개발자들이-알아야할-동시성-1-concurrency와-parallelism-88c51aa2cdc5)
+* [🗒 - 백엔드 개발자들이 알아야할 동시성 2 — 블로킹과 논블로킹, 동기와 비동기](https://choi-geonu.medium.com/백엔드-개발자들이-알아야할-동시성-2-블로킹과-논블로킹-동기와-비동기-e11b3d01fdf8)
+* [🗒 - 백엔드 개발자들이 알아야할 동시성 3 — 쓰레드와 컨텍스트 스위치](https://choi-geonu.medium.com/백엔드-개발자들이-알아야할-동시성-3-쓰레드와-컨텍스트-스위치-79e976d0e478)
+* [🗒 - 백엔드 개발자들이 알아야할 동시성 4 — 스케줄링](https://choi-geonu.medium.com/백엔드-개발자들이-알아야할-동시성-4-스케줄링-e684331afc77)
+* [🗒 - 백엔드 개발자들이 알아야할 동시성 5 — Continuation Passing Style](https://choi-geonu.medium.com/백엔드-개발자들이-알아야할-동시성-5-continuation-passing-style-5058ab5cb781)
+* [🗒 - 백엔드 개발자들이 알아야할 동시성 6 — Coroutine](https://choi-geonu.medium.com/백엔드-개발자들이-알아야할-동시성-6-coroutine-9eecdbeb2d2d)
 
 # 데이터베이스
 
