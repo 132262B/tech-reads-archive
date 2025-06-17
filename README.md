@@ -152,6 +152,7 @@
 
 ## 기타
 * [🗒 - jwt 보다 session이 안전할까?](https://github.com/boojongmin/memo/issues/7)
+* [🗒 - 외부 API를 연동할 때 고려하면 좋은 점들](https://dkswnkk.tistory.com/742)
 
 
 # 프론트엔드
