@@ -194,7 +194,3 @@
 * [🗒 - GeekNews - 개발/기술/스타트업 뉴스 서비스 - HaDa.io](https://news.hada.io/)
 * [🗒 - Spring 공식 가이드](https://spring.io/guides)
 * [🗒 - 쿠버네티스 스쿨](https://www.cloudacode.com/hello-kubernetes/)
-* [무신사](https://medium.com/musinsa-tech)
-* [하이퍼커넥트](https://hyperconnect.github.io/)
-* [드라마앤컴퍼니](https://blog.dramancompany.com/)
-* [여기어때](https://techblog.gccompany.co.kr/?gi=2a9b8bd42c14)
