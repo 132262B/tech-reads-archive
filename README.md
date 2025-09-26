@@ -149,9 +149,10 @@
 # 보안
 ## 네트워크
 * [🗒 - [네트워크] 웹에서의 보안 공격](https://velog.io/@say_ye/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9B%B9%EC%97%90%EC%84%9C%EC%9D%98-%EB%B3%B4%EC%95%88-%EA%B3%B5%EA%B2%A9)
+* [🗒 - BLAKE3 해시 알고리즘](https://hyeonproject.medium.com/blake3-%ED%95%B4%EC%8B%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-8db666fe81c2)
 
 
-## 기타
+## 기타안
 * [🗒 - jwt 보다 session이 안전할까?](https://github.com/boojongmin/memo/issues/7)
 * [🗒 - 외부 API를 연동할 때 고려하면 좋은 점들](https://dkswnkk.tistory.com/742)
 
